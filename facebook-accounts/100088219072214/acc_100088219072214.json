@@ -1,13 +1,13 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "10.12.2022 18:48 teste",
+	"lastEventDate": "10.12.2022 19:20 teste",
 	"status": 2,
 	"id": "100088219072214",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Gabriela Cavalcanti",
 	"birthdate": "2000 December 2",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671302071,
+			"expirationDate": 1671304826,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -115,7 +115,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671302071,
+			"expirationDate": 1678475885.257243,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0UWPt9rRDYzrqM4rv.AWWTTJ4uOh-Rz43EUoBTmUttUI8.Bjj3Az.9v.AAA.0.0.BjlNtz.AWUq_XJrmoY"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1671304826,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -128,19 +141,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678473109.562622,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0UWPt9rRDYzrqM4rv.AWVo0UrfB5OpJhktQItewdQH0J0.Bjj3Az.9v.AAA.0.0.BjlNCb.AWVamCp40F4"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,7 +149,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670697229109%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670700007663%2C%22v%22%3A1%7D"
 		}
 	]
 }
