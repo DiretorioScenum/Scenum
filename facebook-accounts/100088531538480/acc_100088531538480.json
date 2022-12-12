@@ -1,13 +1,13 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "12.12.2022 21:04 Farm1-3_by_scenum",
+	"lastEventDate": "12.12.2022 21:06 Farm1-3_by_scenum",
 	"status": 2,
 	"id": "100088531538480",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Rafaela Goncalvez",
 	"birthdate": "1999 February 2",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671382939,
+			"expirationDate": 1671483959,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702313895.649879,
+			"expirationDate": 1702415050.665216,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702313895.649894,
+			"expirationDate": 1671483955,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1536x668"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1702415050.66526,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -73,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "23%3A3jJdMLvb0N-rMA%3A2%3A1670777902%3A-1%3A-1"
+			"value": "23%3A3jJdMLvb0N-rMA%3A2%3A1670777902%3A-1%3A-1%3A%3AAcWzzkBS-onkKr3wxVxfgY8S_wZJK9D5fJUtJq9D9w"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678553959.949536,
+			"expirationDate": 1678655050.763741,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -86,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0bkaLCFqR4yfjsRRl.AWV-uwuV8fMhsyjNMjhUfyLE6sI.BjkmjG.j8.AAA.0.0.Bjlgxv.AWVhfF_wMT8"
+			"value": "0bkaLCFqR4yfjsRRl.AWVW-cLKl3NS0mu9FEdYpqQvt74.BjkmjG.j8.AAA.0.0.Bjl5dT.AWV2cpCyap8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -98,20 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670778103074%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671382939,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1536x668"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670879159302%2C%22v%22%3A1%7D"
 		}
 	]
 }
