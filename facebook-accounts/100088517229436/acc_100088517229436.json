@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "12.12.2022 20:57 Farm1-3_by_scenum",
+	"lastEventDate": "12.12.2022 20:59 Farm1-3_by_scenum",
 	"status": 2,
 	"id": "100088517229436",
 	"name": "",
@@ -45,7 +45,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671388862,
+			"expirationDate": 1671483549,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -58,7 +58,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702318546.717098,
+			"expirationDate": 1702414638.328241,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -71,20 +71,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702318546.717111,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "45%3AFq0jD_fUqsrLCw%3A2%3A1670782553%3A-1%3A2650"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671388862,
+			"expirationDate": 1671483523,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -97,7 +84,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678559951.994519,
+			"expirationDate": 1702414638.328277,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "45%3AFq0jD_fUqsrLCw%3A2%3A1670782553%3A-1%3A2650%3A%3AAcURYHDXXdHcO-UyzuuM1AJ8RIZ08N0P2s1tZvEH5Q"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678654637.328293,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -106,7 +106,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0cFLgttfC0ywdXa1p.AWXjXhyioBKSfI5bS97RhmIyNvw.Bjj2vC.z8.AAA.0.0.BjliPX.AWUJK00cOvk"
+			"value": "0Ff7rRdy0lY5jckkq.AWUxIixtiX1pTrmUuTZ2eekVl00.Bjl5W2.z8.AAA.0.0.Bjl5W2.AWXpWGqHPgU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -118,12 +118,12 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670784040171%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670878727357%2C%22v%22%3A1%7D"
 		}
 	],
 	"amountFriends": "",
 	"screenname": "Gabriela Souza",
 	"birthdate": "2000 June 14",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false
 }
