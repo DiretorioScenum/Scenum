@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "12.12.2022 21:25 Farm1-3_by_scenum",
+	"lastEventDate": "13.12.2022 13:43 Costa_Dia_3",
 	"status": 2,
 	"id": "100088432122503",
 	"name": "",
@@ -63,7 +63,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671483761,
+			"expirationDate": 1671543781,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -76,7 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702414834.877225,
+			"expirationDate": 1702474870.751305,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -89,7 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671483736,
+			"expirationDate": 1671543781,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702414834.877275,
+			"expirationDate": 1702474870.75144,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -111,11 +111,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "2%3AgjISRCI6tbpuPA%3A2%3A1670770345%3A-1%3A-1%3A%3AAcWkW61bjhbOa4DN_U7rtg_sMtdGLA6yiyHaEL8Kpg"
+			"value": "2%3AgjISRCI6tbpuPA%3A2%3A1670770345%3A-1%3A-1%3A%3AAcV7iciLraM3HPuFn0ctdVpBgQJUE0bRR_S5dwXHug"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678654833.877299,
+			"expirationDate": 1678714869.751469,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Scit0nQPgZ6ivOad.AWUCJp-hJygvXaM_Np89Brml8jE.Bjl5Z6.bD.AAA.0.0.Bjl5Z6.AWX1uEbchs0"
+			"value": "0zcwHudVmRiQO1PUt.AWVrb41uJrcINGlphPL_D-jMae0.BjmIEA.bD.AAA.0.0.BjmIEA.AWXaCMDXgyI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,7 +136,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670878939879%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670938972604%2C%22v%22%3A1%7D"
 		}
 	]
 }
