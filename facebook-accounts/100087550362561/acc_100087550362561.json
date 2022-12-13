@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "12.12.2022 19:37 Farm1-3_by_scenum",
+	"lastEventDate": "13.12.2022 14:51 Costa_Dia_3",
 	"status": 2,
 	"id": "100087550362561",
 	"name": "",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671477321,
+			"expirationDate": 1671547871,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -128,7 +128,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678648374.533457,
+			"expirationDate": 1671547871,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1536x668"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678718942.308365,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +150,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0sXjUsbtYnNVEhWQP.AWUNu6pZXgVEEYvuGvODyp9MXqc.Bjddjr.ih.GOO.0.0.Bjl30-.AWU65InoQVY"
+			"value": "0sXjUsbtYnNVEhWQP.AWV8oeMXduSx9c1qpVj8nB_GKL4.Bjddjr.ih.GOO.0.0.BjmJDn.AWWWhgnt5R0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,20 +162,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670872498651%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671477321,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1536x668"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670943049644%2C%22v%22%3A1%7D"
 		}
 	]
 }
