@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "12.12.2022 18:50 Farm1-3_by_scenum",
+	"lastEventDate": "13.12.2022 14:50 Costa_Dia_3",
 	"status": 2,
 	"id": "100087767313697",
 	"name": "",
-	"amountFriends": "9",
+	"amountFriends": "10",
 	"screenname": "Nicole Carvalho",
 	"birthdate": "1994 August 22",
 	"country": "Brazil",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671474835,
+			"expirationDate": 1671547827,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -128,7 +128,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678645903.714608,
+			"expirationDate": 1678718935.85921,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,20 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0tjzkPT1FDzOv6Muy.AWUd0Z4UNn972V7OFFRH1MO7rH8.BjbAPI.1r.AAA.0.0.Bjl3OY.AWV6qhZczfc"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671474835,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1536x668"
+			"value": "0tjzkPT1FDzOv6Muy.AWWtq3SSPj3MkoM5QhjW2ZnN09s.BjbAPI.1r.AAA.0.0.BjmJDh.AWXZL04Yz7Q"
 		},
 		{
 			"domain": ".facebook.com",
@@ -162,7 +149,20 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670870014475%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670943025008%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1671547827,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1536x668"
 		}
 	]
 }
