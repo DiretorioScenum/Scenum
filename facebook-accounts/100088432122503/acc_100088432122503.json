@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "14.12.2022 20:42 Farm1-3_by_scenum",
+	"lastEventDate": "14.12.2022 20:44 Farm1-3_by_scenum",
 	"status": 2,
 	"id": "100088432122503",
 	"name": "",
@@ -63,7 +63,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671543781,
+			"expirationDate": 1671655461,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -76,7 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702474870.751305,
+			"expirationDate": 1702586563.353734,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -89,7 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671543781,
+			"expirationDate": 1671655461,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702474870.75144,
+			"expirationDate": 1702586563.353925,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -111,11 +111,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "2%3AgjISRCI6tbpuPA%3A2%3A1670770345%3A-1%3A-1%3A%3AAcV7iciLraM3HPuFn0ctdVpBgQJUE0bRR_S5dwXHug"
+			"value": "2%3AgjISRCI6tbpuPA%3A2%3A1670770345%3A-1%3A-1%3A%3AAcW_8wBQpFX6mIUzk4jjonDKNpYUccbx4rCMgCFSGQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678714869.751469,
+			"expirationDate": 1678826562.353984,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0zcwHudVmRiQO1PUt.AWVrb41uJrcINGlphPL_D-jMae0.BjmIEA.bD.AAA.0.0.BjmIEA.AWXaCMDXgyI"
+			"value": "0WeVTOwoqPrmpJu5e.AWX3VdxR2ogknLLIH5BpeB8KujE.BjmjVO.bD.AAA.0.0.BjmjVO.AWUgYFpXzng"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,7 +136,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670938972604%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671050657170%2C%22v%22%3A1%7D"
 		}
 	]
 }
