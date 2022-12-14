@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "14.12.2022 19:16 Farm1-3_by_scenum",
+	"lastEventDate": "14.12.2022 19:18 Farm1-3_by_scenum",
 	"status": 2,
 	"id": "100087244316472",
 	"name": "",
-	"amountFriends": "69",
+	"amountFriends": "71",
 	"screenname": "Melissa Dias",
 	"birthdate": "1992 August 19",
 	"country": "Brazil",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671547869,
+			"expirationDate": 1671650337,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -128,7 +128,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678718937.618738,
+			"expirationDate": 1671650337,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1536x668"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678821407.144511,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +150,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0a5pPZVYbpIls59Vk.AWWajMYj0UP09J3MCpIUMe9O_lc.BjbAk0.Xy.GOO.0.0.BjmJDj.AWXZAsN8lYs"
+			"value": "0a5pPZVYbpIls59Vk.AWUx-LDOxWvqmceHfwbBmNmmCS8.BjbAk0.Xy.GOO.0.0.BjmiEq.AWVZN6_cJVk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,20 +162,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670943047254%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671547869,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1536x668"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671045515175%2C%22v%22%3A1%7D"
 		}
 	]
 }
