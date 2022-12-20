@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "20.12.2022 18:40 farm_3_a_8",
+	"lastEventDate": "20.12.2022 18:42 farm_3_a_8",
 	"status": 2,
 	"id": "100088531538480",
 	"name": "",
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672064564,
+			"expirationDate": 1672166572,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702995631.698033,
+			"expirationDate": 1703097628.342229,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672064564,
+			"expirationDate": 1672166572,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702995631.698148,
+			"expirationDate": 1703097628.342282,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "23%3A3jJdMLvb0N-rMA%3A2%3A1670777902%3A-1%3A2541%3A%3AAcV7hIEZ4EX7g9ozj8sdwbc99cOyIX0OcZBZ0SFamg"
+			"value": "23%3A3jJdMLvb0N-rMA%3A2%3A1670777902%3A-1%3A2541%3A%3AAcWmM4xg9aF4ErL_-Af-CEvRQcTgzsMY660ZFXw-KQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679235630.698171,
+			"expirationDate": 1679337629.666945,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "06j6naiKfqr6j85cc.AWXSCezj1PoAJccjDn9_chkl_WA.BjoHM2.j8.AAA.0.0.BjoHM2.AWVgcvl6Wuw"
+			"value": "0Ip6tNW1iUxip0TOa.AWUq8I4X6LLOReIMEeUDBWoC-no.BjogGk.j8.AAA.0.0.BjogGl.AWVJVcnaYs4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671459741104%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671561755312%2C%22v%22%3A1%7D"
 		}
 	]
 }
