@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "22.12.2022 17:21 farm_3_a_8",
+	"lastEventDate": "22.12.2022 17:23 farm_3_a_8",
 	"status": 2,
 	"id": "100087767313697",
 	"name": "",
@@ -103,19 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "x-referer",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJyIjoiL2hvbWUucGhwP3BhaXB2PTAmZWF2PUFmWmhGZ2JIN1VXYVRMNEdhcDh0SW5PRm51dXhzMUFoTHFadUFxcWZWWGN3RDRVU05GQjY2Q2JrWm81eW81V1d3cDQmdGJ1YT0xIiwiaCI6Ii9ob21lLnBocD9wYWlwdj0wJmVhdj1BZlpoRmdiSDdVV2FUTDRHYXA4dEluT0ZudXV4czFBaExxWnVBcXFmVlhjd0Q0VVNORkI2NkNia1pvNXlvNVdXd3A0JnRidWE9MSIsInMiOiJtIn0%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1672163463,
+			"expirationDate": 1672334602,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -128,7 +116,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672163463,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "x-referer",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJyIjoiL2hvbWUucGhwP3RidWE9MSIsImgiOiIvaG9tZS5waHA%2FdGJ1YT0xIiwicyI6Im0ifQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672334602,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,7 +141,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679334547.318095,
+			"expirationDate": 1679505697.340633,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -150,7 +150,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0tjzkPT1FDzOv6Muy.AWWLdje3knLSxZx4k2j-HDjJL0o.BjbAPI.1r.AAA.0.0.BjofWb.AWV0sJv9BmA"
+			"value": "0tjzkPT1FDzOv6Muy.AWXCNDHleNwCChUPUoByWPVtNDw.BjbAPI.1r.AAA.0.0.BjpJIi.AWXj9Bq5IsM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -162,7 +162,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671558660815%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671729799267%2C%22v%22%3A1%7D"
 		}
 	]
 }
