@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "22.12.2022 17:17 farm_3_a_8",
+	"lastEventDate": "22.12.2022 17:18 farm_3_a_8",
 	"status": 2,
 	"id": "100087259885907",
 	"name": "",
-	"amountFriends": "39",
+	"amountFriends": "55",
 	"screenname": "Rafaela Correia",
 	"birthdate": "1994 August 22",
 	"country": "Brazil",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672162872,
+			"expirationDate": 1672334325,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -128,7 +128,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672162872,
+			"expirationDate": 1672334325,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,7 +141,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679333974.763736,
+			"expirationDate": 1679505436.99004,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -150,7 +150,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Qh9icXDCGUQP088e.AWVBEwuLWtBorRNw7zOEGM2LoNA.BjbQFJ.Dx.AAA.0.0.BjofNf.AWW2RgQs3ec"
+			"value": "0Qh9icXDCGUQP088e.AWUyaOGDRbrh35eDy9alpLQulxk.BjbQFJ.Dx.AAA.0.0.BjpJEd.AWXPqAskRdY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -162,7 +162,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671558069731%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671729522775%2C%22v%22%3A1%7D"
 		}
 	]
 }
