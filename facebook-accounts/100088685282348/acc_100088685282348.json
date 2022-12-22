@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "22.12.2022 15:40 farm_3_a_8",
+	"lastEventDate": "22.12.2022 15:44 farm_3_a_8",
 	"status": 2,
 	"id": "100088685282348",
 	"name": "",
-	"amountFriends": "26",
+	"amountFriends": "90",
 	"screenname": "Anna Araujo",
 	"birthdate": "2000 November 8",
 	"country": "Brazil",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672166578,
+			"expirationDate": 1672328639,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -115,7 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672166578,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "x-referer",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJyIjoiL2hvbWUucGhwP3RidWE9MSIsImgiOiIvaG9tZS5waHA%2FdGJ1YT0xIiwicyI6Im0ifQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672328639,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -128,7 +140,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679337678.326232,
+			"expirationDate": 1679499677.081893,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +149,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0rVCZ7ANVgLZoqwaa.AWUvNrdOt_lF5KFoJwmV1rRMhLo.Bjj3Fg.Wy.AAA.0.0.BjogHW.AWWAD9g_MlI"
+			"value": "0rVCZ7ANVgLZoqwaa.AWUK9ifvodKHL6wQEAKkmSYOx7I.Bjj3Fg.Wy.AAA.0.0.BjpHqd.AWUr2MgKJjM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,7 +161,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671561773902%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671723816320%2C%22v%22%3A1%7D"
 		}
 	]
 }
