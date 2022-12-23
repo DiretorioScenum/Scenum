@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "23.12.2022 23:49 script_3_a_8",
+	"lastEventDate": "23.12.2022 23:52 script_3_a_8",
 	"status": 2,
 	"id": "100088531538480",
 	"name": "",
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672328611,
+			"expirationDate": 1672444343,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703259699.26099,
+			"expirationDate": 1703375433.719796,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672328611,
+			"expirationDate": 1672444343,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703259699.26104,
+			"expirationDate": 1703375433.719844,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "23%3A3jJdMLvb0N-rMA%3A2%3A1670777902%3A-1%3A2541%3A%3AAcUNFr_li9YN0YSr5tOhS_zIUD1IiE6twJI3Q2ix1g"
+			"value": "23%3A3jJdMLvb0N-rMA%3A2%3A1670777902%3A-1%3A2541%3A%3AAcWJghkN59VLfFiHrR3enaGVv3ZF7e8qC95SUbUxZQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679499698.261057,
+			"expirationDate": 1679615435.067019,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0sq0GEylVpi2mJNy8.AWWmV6KbyDIo0CSXMAjIXvZzcJw.BjpHq0.j8.AAA.0.0.BjpHq0.AWUQs3js1p4"
+			"value": "0RbRWgtUkg02VlCCy.AWVOxjHf4kRhjK5FRP76dKrYiqY.Bjpj7K.j8.AAA.0.0.Bjpj7M.AWV_Sbaszts"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671723809306%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671839540182%2C%22v%22%3A1%7D"
 		}
 	]
 }
