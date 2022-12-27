@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "27.12.2022 18:23 script_3_a_8",
+	"lastEventDate": "27.12.2022 18:26 script_3_a_8",
 	"status": 2,
 	"id": "100088432122503",
 	"name": "",
@@ -63,7 +63,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672444404,
+			"expirationDate": 1672770363,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -76,7 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703374893.085212,
+			"expirationDate": 1703701132.811841,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -89,7 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703374893.085336,
+			"expirationDate": 1703701132.811994,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -98,11 +98,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "2%3AgjISRCI6tbpuPA%3A2%3A1670770345%3A-1%3A5538%3A%3AAcUundAPOsWV6w0pOAxfvT4cUzvY7kC9uAHeGGhB9WI"
+			"value": "2%3AgjISRCI6tbpuPA%3A2%3A1670770345%3A-1%3A5538%3A%3AAcWuEdhbwgdaRcVgVHYhUaA11XI1maRrzdKqngRd8jY"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672444400,
+			"expirationDate": 1672770363,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679615513.719195,
+			"expirationDate": 1679941474.08873,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0PkXTQCSAkZgkTzIq.AWX3dbwTA8lly1npoUaSbj7XFj8.Bjpjys.bD.AAA.0.0.Bjpj8b.AWUU4rcgTAc"
+			"value": "0s04ui4zj5SBTJvJX.AWVS4tucVVcLMnb4XJCGsaPdvHw.BjqzcN.bD.AAA.0.0.Bjqzhi.AWUvy4YduMs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,7 +136,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671839604451%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672165562464%2C%22v%22%3A1%7D"
 		}
 	]
 }
