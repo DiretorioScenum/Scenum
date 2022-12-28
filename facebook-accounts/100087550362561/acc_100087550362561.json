@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "28.12.2022 18:13 script_3_a_8",
+	"lastEventDate": "28.12.2022 18:15 script_3_a_8",
 	"status": 2,
 	"id": "100087550362561",
 	"name": "",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672772354,
+			"expirationDate": 1672856128,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -128,7 +128,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672772354,
+			"expirationDate": 1672856128,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,7 +141,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679943464.700784,
+			"expirationDate": 1680027223.583156,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -150,7 +150,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0sXjUsbtYnNVEhWQP.AWUEDFr76HZ8Yx_4yzhE4VTIn-k.Bjddjr.ih.GOO.0.0.Bjq0Ap.AWWQUNnMoAI"
+			"value": "0sXjUsbtYnNVEhWQP.AWWkGgmfZ_S2GScoewF2_dJ-k0Y.Bjddjr.ih.GOO.0.0.BjrIdY.AWU8hGbrtO4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -162,7 +162,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672167551199%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672251326012%2C%22v%22%3A1%7D"
 		}
 	]
 }
