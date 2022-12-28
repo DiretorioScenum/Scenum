@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "28.12.2022 19:05 script_3_a_8",
+	"lastEventDate": "28.12.2022 19:08 script_3_a_8",
 	"status": 2,
 	"id": "100088432122503",
 	"name": "",
-	"amountFriends": "99",
+	"amountFriends": "98",
 	"screenname": "Brenda Alvez",
 	"birthdate": "2000 May 5",
 	"country": "Brazil",
@@ -63,7 +63,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672770363,
+			"expirationDate": 1672859330,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -76,7 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703701132.811841,
+			"expirationDate": 1703790399.324347,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -89,20 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703701132.811994,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "2%3AgjISRCI6tbpuPA%3A2%3A1670770345%3A-1%3A5538%3A%3AAcWuEdhbwgdaRcVgVHYhUaA11XI1maRrzdKqngRd8jY"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1672770363,
+			"expirationDate": 1672859330,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679941474.08873,
+			"expirationDate": 1703790399.324526,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "2%3AgjISRCI6tbpuPA%3A2%3A1670770345%3A-1%3A5538%3A%3AAcXfaIGb_FPpPMxcIBYiZvgOIGqO_cI55wuqt7iwEng"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1680030398.324566,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0s04ui4zj5SBTJvJX.AWVS4tucVVcLMnb4XJCGsaPdvHw.BjqzcN.bD.AAA.0.0.Bjqzhi.AWUvy4YduMs"
+			"value": "0OAfFnBpuVnvcIcHP.AWXB4Cm4y9sf97VUHK8ZjvDec2U.BjrJPA.bD.AAA.0.0.BjrJPA.AWVIm1v-_Io"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,7 +136,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672165562464%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672254527129%2C%22v%22%3A1%7D"
 		}
 	]
 }
