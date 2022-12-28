@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "28.12.2022 19:04 script_3_a_8",
+	"lastEventDate": "28.12.2022 19:08 script_3_a_8",
 	"status": 2,
 	"id": "100088685282348",
 	"name": "",
@@ -98,7 +98,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672770263,
+			"expirationDate": 1672859285,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -123,20 +123,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672770263,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1536x668"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679941301.363497,
+			"expirationDate": 1680030278.778178,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -145,7 +132,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0rVCZ7ANVgLZoqwaa.AWXZzxQgdtJ13MgU0dXFjrKCpxY.Bjj3Fg.Wy.AAA.0.0.Bjqze2.AWU1Lryd_1M"
+			"value": "0rVCZ7ANVgLZoqwaa.AWUdKZuoyLB61JJe54sGBEDS_00.Bjj3Fg.Wy.AAA.0.0.BjrJNH.AWXLGqFdvxY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -157,7 +144,20 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672165423331%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672254469991%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672859285,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1536x668"
 		}
 	],
 	"screenname": "Anna Araujo",
